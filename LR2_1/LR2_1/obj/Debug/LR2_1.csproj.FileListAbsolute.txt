@@ -1,0 +1,9 @@
+D:\OOP\LR2_1\LR2_1\bin\Debug\LR2_1.exe.config
+D:\OOP\LR2_1\LR2_1\bin\Debug\LR2_1.exe
+D:\OOP\LR2_1\LR2_1\bin\Debug\LR2_1.pdb
+D:\OOP\LR2_1\LR2_1\obj\Debug\LR2_1.csprojResolveAssemblyReference.cache
+D:\OOP\LR2_1\LR2_1\obj\Debug\LR2_1.csproj.CoreCompileInputs.cache
+D:\OOP\LR2_1\LR2_1\obj\Debug\LR2_1.exe
+D:\OOP\LR2_1\LR2_1\obj\Debug\LR2_1.pdb
+D:\OOP\LR2_1\LR2_1\bin\Debug\System.ValueTuple.dll
+D:\OOP\LR2_1\LR2_1\bin\Debug\System.ValueTuple.xml
